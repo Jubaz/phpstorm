@@ -1,0 +1,30 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
+  <action id="RemoteHostView.Rename" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+  </action>
+  <action id="SaveAll" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+</keymap>
