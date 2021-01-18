@@ -2291,6 +2291,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.saql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.sass">
           <value>
             <plugin>
